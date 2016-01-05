@@ -5,7 +5,7 @@ subtitle: "My First Blog"
 author: "Lingfeng Cheung"
 header-img: 'img/post-bg-alibaba.jpg'
 tags:
-     - Hello World
+    - Hello World
 
 ---
 
